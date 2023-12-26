@@ -1,0 +1,35 @@
+.solid1 {
+    width: 305px;
+    height: 168px;
+    flex-shrink: 0;
+    border: 1px solid;
+    border-color: #DB00FF;
+    background-color:  #FFF;
+}
+
+.dashed {
+    width: 657px;
+    height: 121px;
+    flex-shrink: 0;
+    border: 3px dashed;
+    border-color: #450E4E;
+    background-color:  #FFF;
+}
+
+.solid2 {
+    width: 399px;
+    height: 95px;
+    flex-shrink: 0;
+    border: 3px solid;
+    border-color: #04FF4A;
+    background-color: #FFF;
+}
+
+.solid3 {
+    width: 1097px;
+    height: 173px;
+    flex-shrink: 0;
+    border: 3px solid;
+    border-color:  #247DAF;
+    background-color: #247DAF;
+}
